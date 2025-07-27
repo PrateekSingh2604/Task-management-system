@@ -1,0 +1,22 @@
+nav{
+    width: 50%;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+    align-items: center;
+    margin-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    top: 10px;
+}
+
+nav a{
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(46, 46, 46);
+}
+
+nav a:hover {
+    border-bottom: 2px solid black;
+}
